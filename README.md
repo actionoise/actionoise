@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @actionoise
 - 👀 I’m interested in Telepresence sistem,database sistem,php,mysql,js,node.js
 - 🌱 I’m currently learning typescript,node.js,php,mysql
-- 💞️ I’m looking to collaborate on Telepresence sistem , remote comtrol of motors.
+- 💞️ I’m looking to collaborate on Telepresence sistem , remote control.
 - 📫 How to reach me: https://www.actionoise.com
 
 <!---
